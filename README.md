@@ -1,9 +1,9 @@
-# **Project-WeRateDogs**
+            # **Project-WeRateDogs**
 ## Data Wrangling Report (WeRateDogs) ##
 ### By Elliot Manuel Sithole ###
 ### 06/09/2022 ##
 ## Context ##
-The project involves the wrangling of data from various sources associated with tweets
+The project involves data wrangling; cleaning, organizing, and transforming raw data into a more usable and structured format for better decision-making in data analysis and visualization.The data generated was associated with tweets
 from Twitter; WeRateDogs. This rates pictures of dogs in a humorous manner, most
 often giving ratings higher than 10/10.
 ### The Objectives ###
